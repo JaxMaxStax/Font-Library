@@ -3,10 +3,10 @@
   src: url('waltograph42.otf') format('otf');
 }
 @font-face {
-  font-family: 'WaltographUI';
-  src: url('waltographUI.ttf') format('ttf');
+  font-family: 'Waltograph Full Caps';
+  src: url('waltographUI.ttf') format('truetype');
 }
 @font-face {
   font-family: 'Ali 2';
-  src: url('Ali_2.ttf') format('ttf');
+  src: url('Ali_2.ttf') format('truetype');
 }
