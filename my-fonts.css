@@ -10,3 +10,11 @@
   font-family: 'Ali 2';
   src: url('Ali_2.ttf') format('truetype');
 }
+@font-face {
+  font-family: '47 Bold';
+  src: url('47-Bold.otf') format('opentype');
+}
+@font-face {
+  font-family: 'Ali 2';
+  src: url('Ali_2.ttf') format('truetype');
+}
